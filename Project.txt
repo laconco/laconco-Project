@@ -3,4 +3,5 @@ Project Bravo
 Project CH
 Project Delta
 Project Force
+Project Gig
 These are the current projects
